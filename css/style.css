@@ -1,0 +1,31 @@
+@font-face {
+    font-family: MiSans-Regular;
+    src:  url('../fonts/MiSans-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: Hytmr;
+    src:  url('../fonts/Hytmr.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: NiHeWoDeLMYZ-2;
+    src:  url('../fonts/NiHeWoDeLangManYuZhou-2.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: LXGBTi;
+    src:  url('../fonts/LXGBTi.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
