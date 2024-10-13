@@ -6,6 +6,9 @@
   - [MiSans-Regular](#MiSans-Regular)
   - [汉唐仪美人体](#汉唐仪美人体)
   - [罗西钢笔体](#罗西钢笔体)
+- [NotBody_Plugins](#Notbody_Plugins)
+ - [autoapply_siteurls](##autoapply_siteurl)
+ - [comment_ipaddr](##comment_ipaddr)
 
 # Introduction
 这是个人博客的一些项目文件
@@ -33,4 +36,4 @@
 ### 使用方法
 1. 下载“comment_ipaddr”至WordPress的插件目录。
 2. 在管理员后台插件目录内启用即可。
-3. 展示归属地的图标可自行在comment_ipaddr.php内根据提示修改
+3. 归属地展示图标可自行在comment_ipaddr.php内根据提示修改
