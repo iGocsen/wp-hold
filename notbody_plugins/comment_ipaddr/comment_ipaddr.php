@@ -1,27 +1,27 @@
 <?php
 /*
-Plugin Name: CommentAddr
-Plugin URI: https://github.com/iGocsen/wp-hold
-Description: 1.0.1为Argon主题增加评论区显示IP属地的功能 2.0.1 方便修改IP属地展示图标，在设置界面内增加设置界面，支持fa、svg、内置Icon；
-Version: 2.0.1
-Author: 小崽安
-Author URI: https://bfzw.top/home
-License: GPL v2 or later
-    Copyright 2024  小崽安  Gocscn.wp@gmail.com
+ * Plugin Name: CommentAddr
+ * Plugin URI: https://github.com/iGocsen/wp-hold
+ * Description: 1.0.1为Argon主题增加评论区显示IP属地的功能 2.0.1 方便修改IP属地展示图标，在设置界面内增加设置界面，支持fa、svg、内置Icon；
+ * Version: 2.0.1
+ * Author: 小崽安
+ * Author URI: https://bfzw.top/home
+ * License: GPL v2 or later
+ *  Copyright 2024  小崽安  Gocscn+wp@gmail.com
  
-    This program is free software; you can redistribute it and/or modify
-    it under the terms of the GNU General Public License as published by
-    the Free Software Foundation; either version 2 of the License, or
-    (at your option) any later version.
- 
-    This program is distributed in the hope that it will be useful,
-    but WITHOUT ANY WARRANTY; without even the implied warranty of
-    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-    GNU General Public License for more details.
- 
-    You should have received a copy of the GNU General Public License
-    along with this program; if not, write to the Free Software
-    Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
+ *   This program is free software; you can redistribute it and/or modify
+ *   it under the terms of the GNU General Public License as published by
+ *   the Free Software Foundation; either version 2 of the License, or
+ *   (at your option) any later version.
+ *
+ *   This program is distributed in the hope that it will be useful,
+ *   but WITHOUT ANY WARRANTY; without even the implied warranty of
+ *   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ *   GNU General Public License for more details.
+ * 
+ *   You should have received a copy of the GNU General Public License
+ *   along with this program; if not, write to the Free Software
+ *   Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
 */
   
 if (!defined('ABSPATH')) {  

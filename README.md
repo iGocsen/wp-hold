@@ -28,8 +28,15 @@
 非免费商用
 
 # Notbody_Plugins
+这是我的WordPress博客插件目录
+
 ## autoapply_siteurl
 这是一款定时自动提交网页链接到 百度资源搜索平台 的插件
+### 使用方法
+1. 下载“siteurls_autoapply”至WordPress的插件目录。
+2. 在插件目录内修改“auto_baidu.php”
+3. 找到上述php文件 “$api”所在行
+4. 将“$api”行内的“example.com”和“yourbaidutoken”分别替换成自己的网站域名以及百度资源搜索平台的token。
 
 ## comment_ipaddr
 这是一款适用于 Argon主题 的插件（WordPress博客系统），开启后可在评论区显示评论者的IP归属地
