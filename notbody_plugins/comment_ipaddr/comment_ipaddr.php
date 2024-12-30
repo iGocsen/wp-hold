@@ -7,7 +7,7 @@
  * Author: 小崽安
  * Author URI: https://bfzw.top/home
  * License: GPL v2 or later
- *  Copyright 2024  小崽安  Gocscn+wp@gmail.com
+ *  Copyright 2024  小崽安  Gocscn.wp@gmail.com
  
  *   This program is free software; you can redistribute it and/or modify
  *   it under the terms of the GNU General Public License as published by
