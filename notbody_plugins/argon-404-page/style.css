@@ -1,0 +1,13 @@
+/*
+Plugin Name: Argon 404 Page
+Plugin URI: https://github.com/solstice23/argon-theme
+Description: 仿 Argon 主题风格的 404 错误页面，包含返回上一页和回到首页按钮，支持日间/夜间模式适配。
+Version: 1.0.0
+Author: solstice23
+Author URI: https://solstice23.top
+License: GPL-3.0
+License URI: https://www.gnu.org/licenses/gpl-3.0.html
+Text Domain: argon-404
+Requires at least: 5.0
+Requires PHP: 7.2
+*/
